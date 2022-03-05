@@ -6,8 +6,8 @@ axis_linear_y: 0 # Left thumb stick horizontal
 scale_linear_y: 0.7
 scale_linear_y_turbo: 1.5
 
-axis_angular: 2 # Right thumb stick horizontal
+axis_angular: 3 # Right thumb stick horizontal
 scale_angular: 1.7
 
-enable_button: 7 # Left trigger button
-enable_turbo_button: 6 # Right trigger button
+enable_button: 5 # Left trigger button
+enable_turbo_button: 4 # Right trigger button
